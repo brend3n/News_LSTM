@@ -1,1 +1,6 @@
-# News_LSTM
+### News_LSTM
+
+
+
+To-Do
+  - [ ] Learn
