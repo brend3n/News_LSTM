@@ -1,5 +1,6 @@
 ### News_LSTM
 
+Generate novel news scripts using Long Short-Term Memory RNNs.
 
 
 To-Do
